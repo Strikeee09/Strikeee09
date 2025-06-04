@@ -1,5 +1,11 @@
 <h1 align="center">Hey there, I'm Pratham Punikar 👋</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+My+GitHub!;I+build+smart+solutions.;Always+learning+something+new!&center=true&width=500&height=45" />
+</p>
+
 <h3 align="center">A Passionate Developer | Problem Solver | DevOps Learner</h3>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Strikeee09&label=Profile%20views&color=0e75b6&style=flat" alt="Strikeee09" />
