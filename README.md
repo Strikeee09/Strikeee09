@@ -104,11 +104,12 @@
 
 ---
 
-## ⚡ GitHub Contribution Streak (Live Animated)
+## 🔥 GitHub Streaks
 
 <p align="center">
-  <img src="https://github-contribution-grid.vercel.app/api?username=Strikeee09&color=00ff00&size=10&animation=wave" width="500" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Strikeee09&theme=tokyonight&hide_border=true" />
 </p>
+
 
 ---
 
@@ -134,9 +135,8 @@
 ## 📊 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Strikeee09&theme=vue&hide_border=true&area=true&custom_title=My%20GitHub%20Activity" width="60%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Strikeee09&theme=vue&hide_border=true&area=true" width="90%" />
 </p>
-
 
 ---
 
