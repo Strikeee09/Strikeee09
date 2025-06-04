@@ -103,10 +103,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Strikeee09&layout=compact&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Strikeee09&theme=vue&hide_border=true&area=true&custom_title=Live+GitHub+Activity" width="90%" />
-</p>
-
 
 ---
 
