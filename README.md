@@ -1,66 +1,83 @@
 <h1 align="center">Hey there, I'm Pratham Punikar 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+My+GitHub!;I+build+smart+solutions.;Always+learning+something+new!&center=true&width=500&height=45" />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+My+GitHub!;Smart+Glasses+Innovator+🕶️;DevOps+Learner+🚀;Problem+Solver+🧠;Let’s+build+something+cool+💻&center=true&width=500&height=45" />
 </p>
 
-<h3 align="center">A Passionate Developer | Problem Solver | DevOps Learner</h3>
-
+<h3 align="center">A Passionate Developer | AI Explorer | DevOps Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Strikeee09&label=Profile%20views&color=0e75b6&style=flat" alt="Strikeee09" />
+  <img src="https://komarev.com/ghpvc/?username=Strikeee09&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Strikeee09?label=Followers&style=social" alt="GitHub Followers" />
 </p>
 
 ---
 
-### 🚀 About Me
+## 🧑‍💻 About Me
 
-- 🔭 Currently building **Smart Glasses for Disabled People** using AI, embedded systems & sign language translation.
-- 🌱 Learning DevOps (Linux, AWS, Docker, Jenkins, CI/CD) to become job-ready in **1–2 months**.
-- 💬 Ask me about **Python, Frontend, Backend, Neural Networks, or UI/UX Design**.
-- 🧠 Active contributor to open-source & tech communities.
+- 👓 Building **Smart Glasses for Disabled People** with AI, sign language, and audio feedback.
+- 💡 Always learning: Currently diving into **DevOps tools like Docker, Jenkins, and AWS**.
+- 🌱 Exploring **Neural Networks, Fuzzy Logic, and Real-world AI Projects**.
+- 🛠️ Focused on building things that **solve real problems**.
 - 📫 Reach me at: [theprathampunikar09@gmail.com](mailto:theprathampunikar09@gmail.com)
-- 💼 Open to opportunities in **Software Development, DevOps, or AI/ML** roles.
 
 ---
 
-### 🧰 Tech Stack
+## 🚀 Tech Stack & Tools
 
-- 💻 **Languages**: Python, JavaScript, C/C++, HTML, CSS
-- 🧠 **AI/ML**: Neural Networks, OpenCV, NumPy, Scikit-Learn
-- 🖼️ **Frontend**: React.js, Tailwind CSS, Bootstrap
-- ⚙️ **Backend**: Node.js, Express.js, MongoDB, Firebase
-- 🛠️ **DevOps**: Linux, Git, GitHub Actions, Docker, AWS (EC2, S3)
-- 🔧 **Tools**: VS Code, Figma, Postman, LaTeX
-
----
-
-### 📌 Featured Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| **Smart Glasses for Disabled** 👓 | Object detection + Audio feedback + Sign Language translator for enhanced communication | Python, OpenCV, Embedded C |
-| **Portfolio Website** 🌐 | Personal responsive portfolio built from scratch | React, Tailwind CSS |
-| **AI Chatbot** 🤖 | Smart NLP-based chatbot with backend integration | Python, Flask |
-| **Realtime Weather App** ⛅ | Shows live weather using OpenWeatherMap API | HTML, JS, CSS |
-
-> 🚀 Check them all out at: [github.com/Strikeee09?tab=repositories](https://github.com/Strikeee09?tab=repositories)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38b2ac?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-### 📈 GitHub Stats
+## 🔥 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Strikeee09&show_icons=true&theme=radical" alt="Strikeee09 GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Strikeee09&show_icons=true&theme=tokyonight" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Strikeee09&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Strikeee09&theme=tokyonight" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Strikeee09&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Strikeee09&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-### 🌐 Let's Connect
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Strikeee09&theme=onedark&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| 💼 **Job Portal** | A platform where recruiters and job seekers can post and apply to jobs in real time | Node.js, MongoDB, React, Express |
+| ♟️ **Multiplayer Chess Game** | Real-time two-player online chess with game logic and WebSocket communication | React, Socket.IO, Node.js |
+| 🌍 **Three.js Earth & Moon** | A beautiful interactive 3D model of Earth and Moon with realistic animations | Three.js, JavaScript, WebGL |
+| 🏥 **Healthcare Appointment System** | Appointment booking system with patient, doctor, and admin dashboards | React, Node.js, MongoDB, Express |
+| 🤖 **Healthcare Bot** | AI-based chatbot that helps patients with symptoms, scheduling, and basic health advice | Python, NLP, Flask, Dialogflow |
+
+---
+
+## 📊 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Strikeee09&theme=tokyo-night" />
+</p>
+
+---
+
+## 🌐 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pratham-punikar-726204282/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" /></a>
@@ -70,5 +87,4 @@
 
 ---
 
-⭐️ *“Learning is my daily fuel. Let's build the future together!”* ⭐️
-
+⭐ *"Turning Ideas into Code. Let's build the future together!"* ⭐
