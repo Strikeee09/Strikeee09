@@ -1,7 +1,11 @@
 <h1 align="center">Hey there, I'm Pratham Punikar 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+My+GitHub!;Smart+Glasses+Innovator+🕶️;DevOps+Learner+🚀;Problem+Solver+🧠;Let’s+build+something+cool+💻&center=true&width=500&height=45" />
+  <img src="https://raw.githubusercontent.com/Elanza-48/elanza-48/main/assets/dev.gif" width="250"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+My+GitHub!;Full-Stack+Web+Developer+🧑‍💻;Frontend+Developer+🎨;Backend+Developer+🛠️DevOps+Learner+🚀;Problem+Solver+🧠;Let’s+build+something+cool+💻&center=true&width=500&height=45" />
 </p>
 
 <h3 align="center">A Passionate Developer | AI Explorer | Full Stack Enthusiast</h3>
@@ -14,8 +18,8 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=34D058&center=true&vCenter=true&width=500&lines=📄+Click+Here+to+View+My+Resume" alt="Animated Resume Link" />
   </a>
 </p>
----
 
+---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Strikeee09&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -67,14 +71,14 @@
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
 
 ### 🧰 DevOps & Tools
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## 🧠 Soft Skills
 
@@ -96,6 +100,14 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Strikeee09&theme=tokyonight" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Strikeee09&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## ⚡ GitHub Contribution Streak (Live Animated)
+
+<p align="center">
+  <img src="https://github-contribution-grid.vercel.app/api?username=Strikeee09&color=00ff00&size=10&animation=wave" width="500" height="180" />
 </p>
 
 ---
@@ -122,8 +134,9 @@
 ## 📊 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Strikeee09&theme=github-light&area=true&hide_border=true&radius=10&color=3ba55d" width="90%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Strikeee09&theme=vue&hide_border=true&area=true&custom_title=My%20GitHub%20Activity" width="60%" />
 </p>
+
 
 ---
 
@@ -133,13 +146,13 @@
   <a href="mailto:theprathampunikar09@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/pratham-punikar-726204282/" target="_blank">
+  <a href="bit.ly/432n6vk" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/Strikeee09" target="_blank">
+  <a href="bit.ly/43pHlVo" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://wa.me/919870166227" target="_blank">
+  <a href="https://wa.me/919021240489" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 </p>
