@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Pratham Punikar 👋</h1>
+<h1 align="center">Hi, I'm Pratham Punikar </h1>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Elanza-48/elanza-48/main/assets/dev.gif" width="250"/>
